@@ -1,6 +1,5 @@
 import "@/styles/globals.css";
 import { ChakraProvider } from "@chakra-ui/react";
-import './card.css'
 
 export default function App({ Component, pageProps }) {
   return (

@@ -1,0 +1,10 @@
+.team-card{
+  border: 1px solid #aaa; /* Borde un poco más oscuro */
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra un poco más oscura */
+  transition: box-shadow 0.3s ease;
+}
+.team-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Aumenta la sombra en hover */
+}
